@@ -1,6 +1,5 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+## Bonjour, je suis un jeune développeur web, je participe à des projets presse High-Tech.
+Etudiant à Epitech, créatif, curieux et surtout passionné par l'informatique, je suis actuellement à la recherche d'un contrat d'alternance ( 2 jours d'école et 3 jours en entreprise ) pour réaliser ma formation .
 
 [![Linkedin Badge](https://img.shields.io/badge/-NadirTounsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadir-tounsi/)](https://www.linkedin.com/in/nadir-tounsi/)
 [![Gmail Badge](https://img.shields.io/badge/-nadirtounsi@workyt.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadirtounsi@workyt.fr)](mailto:nadirtounsi@workyt.fr)
